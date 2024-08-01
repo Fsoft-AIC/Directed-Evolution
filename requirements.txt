@@ -1,0 +1,11 @@
+torch==1.13.1
+lightning==2.0.8
+transformers[torch]==4.31.0
+scikit-learn==1.3.0
+scipy==1.11.2
+biopython
+polyleven
+wandb
+matplotlib
+seaborn
+tqdm
